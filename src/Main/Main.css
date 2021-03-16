@@ -1,0 +1,12 @@
+.jfx-button{
+    -fx-background-color: black;
+    -fx-text-fill: white;
+}
+.jfx-button:hover{
+    -fx-background-color: #FF33FF;
+    -fx-text-fill: black;
+}
+
+.list-view.list-cell:row-selection{
+    -fx-text-fill: black;
+}
