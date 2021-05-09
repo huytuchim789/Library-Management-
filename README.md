@@ -22,3 +22,4 @@ The library's book management application uses JavaFx and PostgresSQL, and manag
 Sticking points:
 
 This application helps managers more conveniently control and stat the number of books. The application runs on the desktop app platform, so you can use it without the internet.
+
